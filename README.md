@@ -79,7 +79,7 @@ $ python src/main.py <experiment_name> --data_dir=data --data_file=data.csv --lo
 ---
 
 ## Video Detailing the Approach:
-[![Video Example](https://github.com/atapour/rank-over-class/blob/master/imgs/thumbnail.jpg)](https://youtu.be/5GLZ9zH_hao "Video Detailing the Approach - Click to Play")
+[![Video Example](https://github.com/atapour/rank-over-class/blob/master/imgs/thumbnail.png)](https://youtu.be/5GLZ9zH_hao "Video Detailing the Approach - Click to Play")
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Video Detailing the Approach - click image above to play.
