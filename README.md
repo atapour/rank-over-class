@@ -4,7 +4,7 @@ Requires an NVIDIA GPU, Python 3, [CUDA CuDNN](https://developer.nvidia.com/cudn
 
 <br>
 
-![General Pipeline](https://raw.githubusercontent.com/atapour/rank-over-class/blob/master/imgs/pipeline.png)
+![General Pipeline](https://github.com/atapour/rank-over-class/blob/master/imgs/pipeline.png)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -70,7 +70,7 @@ $ python src/main.py <experiment_name> --data_dir=data --data_file=data.csv --lo
 
 ---
 
-![Code Run Example](https://raw.githubusercontent.com/atapour/rank-over-class/blob/master/imgs/terminal.png)
+![Code Run Example](https://github.com/atapour/rank-over-class/blob/master/imgs/terminal.png)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -79,7 +79,7 @@ $ python src/main.py <experiment_name> --data_dir=data --data_file=data.csv --lo
 ---
 
 ## Video Detailing the Approach:
-[![Video Example](https://raw.githubusercontent.com/atapour/rank-over-class/blob/master/imgs/thumbnail.png)](https://youtu.be/5GLZ9zH_hao "Video Detailing the Approach - Click to Play")
+[![Video Example](https://github.com/atapour/rank-over-class/blob/master/imgs/thumbnail.png)](https://youtu.be/5GLZ9zH_hao "Video Detailing the Approach - Click to Play")
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Video Detailing the Approach - click image above to play.
