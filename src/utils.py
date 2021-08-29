@@ -8,7 +8,6 @@ from sklearn.metrics import accuracy_score, f1_score
 from torch.utils.data import DataLoader, SubsetRandomSampler
 from torch.utils.data.dataloader import default_collate
 
-
 # -----------------------------------------------------------------------
 # To check the data before collated into the batches:
 def my_collate(batch):

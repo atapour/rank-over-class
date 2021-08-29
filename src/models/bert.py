@@ -3,6 +3,7 @@
 import torch.nn as nn
 from transformers import BertModel, BertPreTrainedModel
 
+# BERT:
 # ----------------------------------------------
 class BertForSequenceRanking(BertPreTrainedModel):
 

@@ -4,7 +4,7 @@ Requires an NVIDIA GPU, Python 3, [CUDA CuDNN](https://developer.nvidia.com/cudn
 
 <br>
 
-![General Pipeline](https://github.com/atapour/rank-over-class/blob/master/imgs/pipeline.png)
+![General Pipeline](https://raw.githubusercontent.com/atapour/rank-over-class/blob/master/imgs/pipeline.png)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -14,7 +14,7 @@ Requires an NVIDIA GPU, Python 3, [CUDA CuDNN](https://developer.nvidia.com/cudn
 
 _"Text classification has long been a staple in natural language processing with applications spanning across sentiment analysis, online content tagging, recommender systems and spam detection. However, text classification, by nature, suffers from a variety of issues stemming from dataset imbalance, text ambiguity, subjectivity and the lack of linguistic context in the data. In this paper, we explore the use of text ranking, commonly used in information retrieval, to carry out challenging classification-based tasks. We propose a novel end-to-end ranking approach consisting of a Transformer network responsible for producing representations for a pair of text sequences, which are in turn passed into a context aggregating network outputting ranking scores used to determine an ordering to the sequences based on some notion of relevance. We perform numerous experiments on publicly-available datasets and investigate the possibility of applying our ranking approach to certain problems often addressed using classification. In an experiment on a heavily-skewed sentiment analysis dataset, converting ranking results to classification labels yields an approximately 22% improvement over state-of-the-art text classification, demonstrating the efficacy of text ranking over text classification in certain scenarios."_
 
-[[Atapour-Abarghouei, Bonner and McGough, 2020](https://arxiv.org/abs/2009.05160)]
+[[Atapour-Abarghouei, Bonner and McGough, 2021](https://arxiv.org/abs/2009.05160)]
 
 ---
 ---
@@ -70,7 +70,7 @@ $ python src/main.py <experiment_name> --data_dir=data --data_file=data.csv --lo
 
 ---
 
-![Code Run Example](https://github.com/atapour/rank-over-class/blob/master/imgs/terminal.png)
+![Code Run Example](https://raw.githubusercontent.com/atapour/rank-over-class/blob/master/imgs/terminal.png)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -79,7 +79,7 @@ $ python src/main.py <experiment_name> --data_dir=data --data_file=data.csv --lo
 ---
 
 ## Video Detailing the Approach:
-[![Video Example](https://github.com/atapour/rank-over-class/blob/master/imgs/thumbnail.png)](https://youtu.be/5GLZ9zH_hao "Video Detailing the Approach - Click to Play")
+[![Video Example](https://raw.githubusercontent.com/atapour/rank-over-class/blob/master/imgs/thumbnail.png)](https://youtu.be/5GLZ9zH_hao "Video Detailing the Approach - Click to Play")
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Video Detailing the Approach - click image above to play.
@@ -91,7 +91,7 @@ $ python src/main.py <experiment_name> --data_dir=data --data_file=data.csv --lo
 This work is created as part of the project published in the following:
 
 [Rank over Class: Applications of Ranking in Natural Language Processing](https://arxiv.org/pdf/2009.05160.pdf)
-(A. Atapour-Abarghouei, S. Bonner and A.S. McGough), 2020. [[pdf](http://www.atapour.co.uk/papers/RankOverClass.pdf)]
+(A. Atapour-Abarghouei, S. Bonner and A.S. McGough), 2021. [[pdf](http://www.atapour.co.uk/papers/RankOverClass.pdf)]
 
 ```
 
@@ -99,7 +99,7 @@ This work is created as part of the project published in the following:
   title={Rank over Class: The Untapped Potential of Ranking in Natural Language Processing},
   author={Atapour-Abarghouei, Amir and Bonner, Stephen and McGough, Andrew Stephen},
   journal={arXiv preprint arXiv:2009.05160},
-  year={2020}
+  year={2021}
 }
 
 

@@ -2,6 +2,7 @@ import torch.nn as nn
 from transformers import GPT2Model, GPT2PreTrainedModel
 from transformers.modeling_utils import SequenceSummary
 
+# GPT-2:
 # ----------------------------------------------
 class GPT2ForSequenceRanking(GPT2PreTrainedModel):
 

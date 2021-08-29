@@ -1,6 +1,5 @@
 import argparse
 
-
 # -------------------------------------------
 # Arguments class:
 class Arguments():
