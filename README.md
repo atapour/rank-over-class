@@ -95,7 +95,7 @@ This work is created as part of the project published in the following:
 
 ```
 
-@article{atapour2020rankoverclass,
+@article{atapour2021rankoverclass,
   title={Rank over Class: The Untapped Potential of Ranking in Natural Language Processing},
   author={Atapour-Abarghouei, Amir and Bonner, Stephen and McGough, Andrew Stephen},
   journal={arXiv preprint arXiv:2009.05160},
